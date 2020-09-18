@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Loginpage</string>
+    <string name="Username">Enter Username</string>
+    <string name="Password">Enter Password</string>
+    <string name="Cpass">Confirm Password</string>
+</resources>

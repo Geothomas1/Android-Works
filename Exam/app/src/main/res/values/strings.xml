@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exam</string>
+    <string name="Name">Enter Login Name</string>
+    <string name="Password">Enter Password</string>
+    <string name="Namec">Enter Your Name</string>
+    <string name="Department">Enter Department</string>
+    <string name="RollNo">Enter Rollno</string>
+</resources>
